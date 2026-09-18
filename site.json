@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "name": "심가이드",
+  "brand": "SIMGUIDE",
+  "mark": "SI",
+  "worker": "simguide",
+  "url": "https://simguide.webnote-lab.workers.dev",
+  "description": "심가이드의 정보와 실용 가이드를 정리합니다.",
+  "tagline": "심가이드, 차근차근 알아보기",
+  "categories": [
+    {
+      "description": "심가이드의 정보와 실용 가이드를 정리합니다.",
+      "name": "심가이드",
+      "slug": "simguide"
+    }
+  ],
+  "contact_url": "https://github.com/starex1001-ai/simguide/issues"
+}
